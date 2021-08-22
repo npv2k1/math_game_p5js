@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    width:400px;
+}
+#point{
+    color:#17b978;
+}
+#error{
+    color:#fc85ae
+}
+#answer_input {
+    width: 390px;
+    outline: none;
+    height:40px;
+    font-size: x-large;
+    padding: 3px;
+    text-align: center;
+}
